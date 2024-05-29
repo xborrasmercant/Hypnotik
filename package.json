@@ -1,15 +1,18 @@
 {
   "name": "hypnotik",
   "version": "1.0.0",
-  "description": "website to log dreams",
+  "description": "Website to log dreams",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "hypnotik"
+    "url": "https://github.com/xborrasmercant/Hypnotik"
   },
   "author": "Arsenios",
-  "license": "ISC"
+  "license": "CC0 1.0 DEED",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }

@@ -1,0 +1,15 @@
+{
+  "name": "hypnotik",
+  "version": "1.0.0",
+  "description": "website to log dreams",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hypnotik"
+  },
+  "author": "Arsenios",
+  "license": "ISC"
+}
